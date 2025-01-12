@@ -8487,3 +8487,82 @@ msgstr "Error: "
 msgid "MMEX Update Check"
 msgstr "Comprovació d'actualització de MMEX"
 
+#: wizard_update.cpp:329 wizard_update.cpp:347
+msgid "Budget Planner"
+msgstr "Planificador Pressupostos"
+
+#: wizard_update.cpp:329 wizard_update.cpp:348
+msgid "Credit Card Accounts"
+msgstr "Comptes de Targetes Credit"
+
+#: wizard_update.cpp:329 wizard_update.cpp:349
+msgid "Loan Accounts"
+msgstr "Comptes de Prestecs"
+
+#: wizard_update.cpp:329 wizard_update.cpp:350
+msgid "Term Accounts"
+msgstr "Comptes a Termini"
+
+#: wizard_update.cpp:329 wizard_update.cpp:351
+msgid "Share Accounts"
+msgstr "Comptes d'Accions"
+
+#: wizard_update.cpp:329 wizard_update.cpp:352
+msgid "Transaction Report"
+msgstr "Informe de Trasaccions"
+
+#: wizard_update.cpp:329 wizard_update.cpp:353
+msgid "Cash Flow"
+msgstr "Flux de Caixa"
+
+#: wizard_update.cpp:329 wizard_update.cpp:354
+msgid "Forecast Report"
+msgstr "Informe de Previsió"
+
+#: wizard_update.cpp:329 wizard_update.cpp:355
+msgid "Income vs. Expenses"
+msgstr "Ingressos & Despeses"
+
+#: wizard_update.cpp:329 wizard_update.cpp:356
+msgid "My Usage"
+msgstr "El meu ús"
+
+#: wizard_update.cpp:329 wizard_update.cpp:357
+msgid "Payees"
+msgstr "Beneficiaris"
+
+#: wizard_update.cpp:329 wizard_update.cpp:358
+msgid "Summary of Accounts"
+msgstr "Resum dels Comptes"
+
+#: wizard_update.cpp:329 wizard_update.cpp:359
+msgid "Budgets"
+msgstr "Pressupostos"
+
+#: wizard_update.cpp:329 wizard_update.cpp:360
+msgid "Navigator"
+msgstr "Navegador"
+
+#: wizard_update.cpp:329 wizard_update.cpp:361
+msgid "Summary"
+msgstr "Resum"
+
+#: wizard_update.cpp:329 wizard_update.cpp:362
+msgid "Where the money goes"
+msgstr "On Van els Doblers"
+
+#: wizard_update.cpp:329 wizard_update.cpp:363
+msgid "Where the money comes from"
+msgstr "D'on venen els doblers"
+
+#: wizard_update.cpp:329 wizard_update.cpp:364
+msgid "Budget Performance"
+msgstr "Realització del Pressupost"
+
+#: wizard_update.cpp:329 wizard_update.cpp:365
+msgid "Budget Category Summary"
+msgstr "Resum x Categories del Pressupost"
+
+#: wizard_update.cpp:329 wizard_update.cpp:366
+msgid "General Report Manager"
+msgstr "Gestor d'Informes General"
